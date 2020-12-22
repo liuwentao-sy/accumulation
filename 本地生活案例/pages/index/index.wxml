@@ -1,0 +1,14 @@
+<view>
+  <view class="silders">
+    <swiper class="" indicator-dots="false" autoplay="false" interval="5000" duration="1000" circular="{{true}}">
+      <swiper-item>
+        <image src="/assets/images/banner-01.png" mode="widthFix"></image>
+      </swiper-item>
+      <swiper-item>
+        <image src="/assets/images/banner-02.png" mode="widthFix"></image>
+      </swiper-item>
+    </swiper>
+  </view>
+  <view class="grids"></view>
+  <view class="enter"></view>
+</view>
