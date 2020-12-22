@@ -1,6 +1,0 @@
-{
-  "navigationBarTitleText": "签到领积分",
-  "usingComponents": {
-    "uni-calendar": "/components/uni-calendar/uni-calendar"
-  }
-}
